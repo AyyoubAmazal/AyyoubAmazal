@@ -59,13 +59,6 @@ Currently, I'm looking for a **Final Year Internship (PFE) as an AI Engineer**, 
 
 ---
 
-### 🌍 Languages
-
-- 🇲🇦 Arabic — Native
-- 🇫🇷 French — Fluent
-- 🇬🇧 English — Fluent
-
----
 ### 🎯 Currently Exploring
 
 - 🧠 Advanced LLM architectures and AI Agents
@@ -81,18 +74,22 @@ Currently, I'm looking for a **Final Year Internship (PFE) as an AI Engineer**, 
 ### 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ayyoub-amazal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:ayoubamazal2003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/ayyoub-amazal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ayoubamazal2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  🇲🇦 Morocco | 💼 Open to AI Engineer PFE Opportunities
+  🌍 Morocco 🇲🇦 | 💼 Open to AI Engineer PFE Opportunities
 </p>
 
 <h3 align="center">
-  💡 "Turning Data into Intelligence." 🚀
+  💡 "Turning data into intelligence, and intelligence into impact."🚀
 </h3>
+
+<p align="center">
+  ⭐ If you find my projects interesting, don't forget to star them!
+</p>
