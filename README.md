@@ -34,8 +34,7 @@ Currently, I'm looking for a **Final Year Internship (PFE) as an AI Engineer**, 
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Transformers-8A2BE2?style=flat-square" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="35" />
 </p>
 
 **🤖 Generative AI & NLP**
