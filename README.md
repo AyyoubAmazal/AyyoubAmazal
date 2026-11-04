@@ -66,7 +66,18 @@ Currently, I'm looking for a **Final Year Internship (PFE) as an AI Engineer**, 
 - 🇬🇧 English — Fluent
 
 ---
+### 🎯 Currently Exploring
 
+- 🧠 Advanced LLM architectures and AI Agents
+
+- 🔗 Advanced RAG & Vector Databases
+
+- ⚙️ LLM deployment and optimization
+
+- 🚀 Building production-ready AI applications
+
+- ☁️ MLOps and AI Engineering
+-----
 ### 🤝 Connect With Me
 
 <p align="center">
